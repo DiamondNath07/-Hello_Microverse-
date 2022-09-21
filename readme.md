@@ -20,27 +20,15 @@
 
 ---
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Clone the repo and open it in your browser.
 
 ## Authors
 
-👤 **Author1**
+👤 **Diamond Nathaniel I**
 
-- GitHub: [@githubhandle](https://github.com/DiamondNath07)
-- Twitter: [@twitterhandle](https://twitter.com/@diamondNath07)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/diamond-nathaniel-6b664b245)
+- GitHub: [https://github.com/DiamondNath07]
+- Twitter: [https://twitter.com/@diamondNath07]
+- LinkedIn: [https://linkedin.com/in/diamond-nathaniel-6b664b245]
 
 ## 🤝 Contributing
 
@@ -60,5 +48,6 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
+This project is [Hello_Microverse-](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
