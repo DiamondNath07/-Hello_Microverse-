@@ -1,5 +1,3 @@
-# Hello Microverse project
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Microverse Linters Project
