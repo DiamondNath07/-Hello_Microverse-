@@ -20,7 +20,6 @@ You can run the application locally or run as a container
 
 To run this project locally, make sure you have done the following:
 
-- Created a repo
 - Created hint.rc file
 - Created stylelint.rc file
 - Created .gihub/workflows/linters/yml
